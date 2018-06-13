@@ -1,0 +1,25 @@
+article{
+    
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 40px; 
+    display: inline-block; 
+    width: 80%; 
+}
+
+section{
+float: right;
+width: 25%;
+padding-left: 10px;
+border-left: 2px dotted #b2a497;
+}
+
+
+
+p:first-letter {
+font-size: 30pt;
+display: block;
+float: left;
+margin: 0 5px 5px 0;
+}
+

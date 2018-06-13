@@ -1,0 +1,10 @@
+body{
+    
+      background-image: url("../Images/background.jpg");
+     
+    }
+    
+    div#menu {
+        margin-bottom: 370px;
+        margin-left: 160px;
+    }

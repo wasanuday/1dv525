@@ -1,0 +1,23 @@
+{
+  "name": "1dv525",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.html",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasanuday/1dv525.git"
+  },
+  "author": "wasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasanuday/1dv525/issues"
+  },
+  "homepage": "https://github.com/wasanuday/1dv525#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
